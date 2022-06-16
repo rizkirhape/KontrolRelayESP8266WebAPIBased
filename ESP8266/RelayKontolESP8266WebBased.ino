@@ -259,7 +259,7 @@ void loop() {
 //===================================================End-Of-Void-Loop================================================================
 //---------------------------------------------------------------------------------
 //Project: Kontrol Relay Berbasis Web API Request, LCD Monitor, Dan WiFiManager   |
-//Author: Anjas Amar Pradana                                                      |
+//Author: Rizki Heri Purwanto                                                   |
 //Mail: atsidev.io@gmail.com                                                      |
 //Program khusus board: esp8266 (Nodemcu)                                         |
 //Official Web API Service: http://mpsri.atwebpages.com                           |

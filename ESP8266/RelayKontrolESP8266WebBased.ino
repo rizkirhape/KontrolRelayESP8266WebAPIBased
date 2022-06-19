@@ -33,7 +33,7 @@ LiquidCrystal_I2C lcd(0x27, lcdColumns, lcdRows);
 //=======================================================End-Of-Setup-LCD=====================================================================
 //=========================================================Setup-Server=======================================================================
 //Alamat Server Api
-String host = "mpsri.atwebpages.com"; //Contoh: www.anjasganteng.com (tanpa tanda baca, dan http:// atau http://
+String host = "mpsri.atwebpages.com"; //Contoh: www.pemalang.com (tanpa tanda baca, dan http:// atau http://
 
 // Set web server port number to 80
 //Cek Alamat Server Dapat Terhubung
